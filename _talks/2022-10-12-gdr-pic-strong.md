@@ -10,6 +10,8 @@ location: "Virtual event."
 ---
 A ready to use short demonstration of several possibilities with Geemap. The objective is to show that, with minimum effort, it's possible to create a model that estimates the population count for a given lat/lon and create an interactive map to visualize the results.
 
+[Link to GitHub](https://github.com/robin-j412/geemap-demo)
+
 ---
 
 <iframe src="/maps/predicted_population_map.html" width="820" height="520"></iframe>
