@@ -17,16 +17,20 @@ Education
 
 Work experience
 ======
-* SUmmer job at the french _Embarcadère de l'Abbaye_
+* Summer job at the french _Embarcadère de l'Abbaye_. (2014-2018)
   * Show tourists around the Poitevin Marsh, by boat
 
-* Intern in French Federation of Backgammon
+* Intern in French Federation of Backgammon (2019, 2 months)
   * Automatically transcribe the game, according to a video
   * The project was quite huge to realize alone, so I stopped it after my intership
 
-* Intern in LIRMM
+* Intern in LIRMM (2020, 4 month)
   * University of Montpellier
   * Creating a benchmark for comparing poverty prediction methodologies
+
+* Study Engineer (2020, 2 month)
+  * Ameliorate the benchmark proposed during the internship
+  * Summarize the results obtained in a scientific publication.
   
 Skills
 ======
