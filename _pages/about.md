@@ -15,7 +15,7 @@ I'm doing a PhD in computer science in the university of Montpellier, since 2020
 
 After high school, I studied mathematics at the university of La Rochelle in France. I obtained a BS degree in mathematics and a MS degree in Mathematics and Applications. Then I went in Montpellier to start my PhD.
 Around that, I learn programming with Python, and famous libraries like Tensorflow and Opencv. I have put this learning to use during my research. 
-During my PhD, I have become familiar with public satellite images (Landsat/Sentinel) and also with Nighttime lights map of the world (DMSP/VIIRS). I have some knowledge on deep learning in general, particularly on sequence models.
+During my PhD, I have become familiar with public satellite images (Landsat/Sentinel) and also with Nighttime lights map of the world (DMSP/VIIRS). I have a good knowledge on deep learning in general, particularly on sequence models.
 
 
 
