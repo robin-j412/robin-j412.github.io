@@ -22,10 +22,10 @@ During my PhD, I have become familiar with public satellite images (Landsat/Sent
 
 ## Some facts
 
-I like having discussion with interesting people, and sometime with boring people as anyone has something to teach me, even if it's boring.
+<!--I like having discussion with interesting people, and sometime with boring people as anyone has something to teach me, even if it's boring. -->
 
 I like to play guitar, a good hike and taking the train. But not everything at the same time.
 
 If you are thinking, looking at this wep page, that I should know a bit of web development, you should forget this idea. I know nothing about it, I just forked [this page](https://github.com/academicpages/academicpages.github.io) and replaced some stuff.
 
-My objective is to learn as much as I can
+<!--My objective is to learn as much as I can -->
