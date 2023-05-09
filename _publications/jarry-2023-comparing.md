@@ -6,7 +6,7 @@ excerpt: 'We studied if a deep learning model could benefit from spatio-temporal
 date: 2023-07-16
 venue: 'To appear in: IGARSS 2023 (oral presentation)'
 paperurl: 'Link (TBD)'
-citation: '(TBD)'
+citation: 'To appear in: IGARSS 2023 (TBD)'
 ---
 
 ### Abstract 

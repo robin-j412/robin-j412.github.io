@@ -24,11 +24,11 @@ Work experience
   * Automatically transcribe the game, according to a video
   * The project was quite huge to realize alone, so I stopped it after my intership
 
-* Intern in LIRMM (2020, 4 month)
+* Intern in LIRMM (2020, 4 months)
   * University of Montpellier
   * Creating a benchmark for comparing poverty prediction methodologies
 
-* Study Engineer (2020, 2 month)
+* Study Engineer (2020, 2 months)
   * Ameliorate the benchmark proposed during the internship
   * Summarize the results obtained in a scientific publication.
   
