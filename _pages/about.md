@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a PhD student in computer science at the University of 
-Montpellier, since 2020. My research topic is about estimating the evolution of poverty, especially in developing countries, with satellite image times series and deep learning. The idea is produce a model that processes satellite image time series of some place on earth, and deliver the poverty evolution observed in this location. Satellite image time series are a rich source of information, combined with recent deep learning approaches, a model could identify the evolution of key structures (like roads, hospital, lakes, buildings, ...) and learn the dependency with the evolution of poverty.
+Montpellier, since 2020. My research topic is about estimating the evolution of poverty, especially in developing countries, with satellite image times series and deep learning. The idea is produce a model that processes satellite image time series of some place on earth, and estimates the poverty evolution observed in this location. Satellite image time series are a rich source of informations, combined with recent deep learning approaches, a model could identify the evolution of key structures (like roads, hospital, lakes, buildings, ...) and learn the dependency with the evolution of poverty.
 
 
 ## Background overview
