@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/jarry-2023-comparing
 excerpt: 'We studied if a deep learning model could benefit from spatio-temporal data to predict the evolution of Nighttime Light, a classic socio-economic proxy.'
 date: 2023-07-16
-venue: 'To appear in: IGARSS 2023 (oral presentation)'
-paperurl: 'Link (TBD)'
-citation: 'To appear in: IGARSS 2023 (TBD)'
+venue: 'IGARSS 2023'
+paperurl: '<a https://ieeexplore.ieee.org/document/10282306> Link </a>'
+citation: 'Robin Jarry, Marc Chaumont, Laure Berti-Équille, Gérard Subsol. Comparing Spatial and Spatio-Temporal Paradigms to Estimate The Evolution of Socio-Economical Indicators from Satellite Images. In <i> IGARSS 2023 - IEEE International Geoscience and Remote Sensing Symposium </i> (p. 5790-5793). IEEE'
 ---
 
 ### Abstract 
