@@ -2,7 +2,7 @@
 title: "Teaching Associate"
 collection: teaching
 type: "2<sup>nd</sup> year students"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2020-temporary-teacher
 venue: "University of Nîmes"
 date: 2020-01-01
 location: "Nîmes, France"
