@@ -6,7 +6,7 @@ excerpt: "We set up a comparison ef existing methods for poverty estimation, and
 date: 2020-02-21
 venue: "ICPR International Workshops and Challenges. ICPR 2021. Lecture Notes in Computer Science vol 12667"
 paperurl: "<a href='https://hal.science/hal-03066937v1'> Link.</a>"
-citation: "Jarry, R., Chaumont, M., Berti-Équille, L., & Subsol, G. (2021). Assessment of CNN-based methods for poverty estimation from satellite images. In <i>Pattern Recognition. ICPR International Workshops and Challenges: Virtual Event, January 10-15, 2021, Proceedings, Part VII</i> (pp. 550-565). Springer International Publishing."
+citation: "Robin Jarry, Marc Chaumont, Laure Berti-Équille, Gérard Subsol. Assessment of CNN-based methods for poverty estimation from satellite images. In <i>Pattern Recognition. ICPR International Workshops and Challenges: Virtual Event, January 10-15, 2021, Proceedings, Part VII</i> (p. 550-565). Springer International Publishing."
 ---
 
 ### Abstract
