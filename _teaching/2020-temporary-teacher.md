@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "Nîmes, France"
 ---
 
-My first teaching experiment at the university. The topic was _Graph Algorithms_. 
+My first teaching experiment at the university. The lecture was _Graph Algorithms_. **50h.** 
 
 ---
 The goal was to introduced to second-year student some of the most important algorithm for graph, from the presentation to the implementation in Java: 
