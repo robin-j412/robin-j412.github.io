@@ -9,28 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Mathematics, La Rochelle University, 2015-2018
-* M.S. in Mathematics, La Rochelle University, 2018-2020
-* Ph.D in Computer Science, University of Montpellier, 2020-2023 (expected)
-
 Work experience
 ======
-* Summer job at the french _Embarcadère de l'Abbaye_. (2014-2018)
-  * Show tourists around the Poitevin Marsh, by boat
+* Assistant Professor, University of Montpellier (oct 2023 - aug 2024)
+  * Teaching : 192 H in the computer science department. details <a link="../_teaching/2023-ater.md">here </a>
+  * Research : 
+
+* PhD sutdent contract, CNRS (oct 2020 - sep-2023)
+  * Studying poverty prediciton with deep learning methods and remote sensing data
+  * Comparing spatial and spatio-temporal models for poverty *evolution* estimation
+  * Assessing the comparison in Tanzania and Syria, then in the entire Africa and Middle-East
+
+* Study Engineer,  (Jul-Aug 2020)
+  * Ameliorate the benchmark proposed during the internship
+  * Summarize the results obtained in a scientific publication.
+  
+* Intern hosted in LIRMM for the *Fondation pour la Recherche sur la Biodiversité (FRB)* (Feb-Jun 2020)
+  * Creating a benchmark for comparing poverty prediction methodologies
 
 * Intern in French Federation of Backgammon (2019, 2 months)
   * Automatically transcribe the game, according to a video
   * The project was quite huge to realize alone, so I stopped it after my intership
 
-* Intern in LIRMM (2020, 4 months)
-  * University of Montpellier
-  * Creating a benchmark for comparing poverty prediction methodologies
+Education
+======
+* B.S. in Mathematics, La Rochelle University, 2015-2018
+* M.S. in Mathematics, La Rochelle University, 2018-2020
+* Ph.D in Computer Science, University of Montpellier, 2020-2024
 
-* Study Engineer (2020, 2 months)
-  * Ameliorate the benchmark proposed during the internship
-  * Summarize the results obtained in a scientific publication.
+
   
 Skills
 ======
@@ -43,7 +50,7 @@ Skills
 * Google Cloud Platform
   * Google Earth Engine (python) API
   * Cloud Storage
-* HPE Jean-Zay
+* HPC Jean-Zay
   * Multi-GPU Training of deep neural network
   * Slurm
 * Latex
