@@ -11,9 +11,8 @@ redirect_from:
 
 Work experience
 ======
-* Assistant Professor, University of Montpellier (oct 2023 - aug 2024)
+* Assistant Professor, University of Montpellier (oct 2023 - aug 2024, *on going*)
   * Teaching : 192 H in the computer science department. details <a link="../_teaching/2023-ater.md">here </a>
-  * Research : 
 
 * PhD sutdent contract, CNRS (oct 2020 - sep-2023)
   * Studying poverty prediciton with deep learning methods and remote sensing data
@@ -33,9 +32,10 @@ Work experience
 
 Education
 ======
-* B.S. in Mathematics, La Rochelle University, 2015-2018
+
+* Ph.D in Computer Science, University of Montpellier, 2020-2024 (*on going*)
 * M.S. in Mathematics, La Rochelle University, 2018-2020
-* Ph.D in Computer Science, University of Montpellier, 2020-2024
+* B.S. in Mathematics, La Rochelle University, 2015-2018
 
 
   
