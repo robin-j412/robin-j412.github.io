@@ -14,9 +14,8 @@ A ready to use short demonstration of several possibilities with Geemap. The obj
 
 ---
 
-<iframe src="/maps/predicted_population_map.html" width="820" height="520"></iframe>
+<iframe src="/maps/pred_map.html" width="820" height="520"></iframe> -->
 
-(Navigate in the map slowly)
-Train data is on the left and test data on the right. A Decision Tree Regressor is trained at the pixel (_i.e._ spectral) level, to estimate the population count, given by the Worlpop dataset. On the test side, we observe some a radically different spatial pattern: the model produce a higher resolution map that seem globally consistent with the background hig resolution optical imagery. However there are also a high proportion of outliers predictions (with high population count in marsh for examples ...)
-
-
+Train data is on the left and test data on the right. A Decision Tree Regressor is trained at the pixel level, to estimate the population count, given by the [Worlpop](https://developers.google.com/earth-engine/datasets/catalog/WorldPop_GP_100m_pop) dataset. 
+On the test side, we observe some a radically different spatial pattern: the model produce a higher resolution map that seem globally consistent with the background high resolution optical imagery. 
+However there are also a high proportion of error predictions (with high population count in marsh for examples ...)
