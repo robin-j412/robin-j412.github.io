@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-EN"
 title                    : "Robin Jarry"
+masthead_title           : "My Custom Title"
 title_separator          : "-"
 name                     : &name "Robin Jarry"
 description              : &description "personal description"
@@ -309,3 +310,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
