@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Robin"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in computer science at the University of 
-Montpellier, since 2020. My research topic is about estimating the evolution of poverty, especially in developing countries, with satellite image times series and deep learning. The idea is produce a model that processes satellite image time series of some place on earth, and estimates the poverty evolution observed in this location. Satellite image time series are a rich source of informations, combined with recent deep learning approaches, a model could identify the evolution of key structures (like roads, hospital, lakes, buildings, ...) and learn the dependency with the evolution of poverty.
+I'm a PhD student in computer science at the University of Montpellier, since 2020. 
+My research topic is about estimating the evolution of poverty, especially in developing countries, with satellite image times series and deep learning. 
+The idea is producing a model that processes satellite image time series of some place on earth, and estimates the poverty evolution observed in this location.
+Satellite image time series are a rich source of informations, combined with recent deep learning approaches, a model could identify the evolution of key structures (like roads, hospital, lakes, buildings, ...) and learn the dependency with the evolution of poverty.
 
 
 ## Background overview
@@ -19,14 +21,17 @@ Around that, I learn programming with Python, and famous libraries like Tensorfl
 During my PhD, I have become familiar with public satellite images (Landsat/Sentinel) and also with Nighttime lights map of the world (DMSP/VIIRS). I have a good knowledge on deep learning in general, particularly on sequence models.
 
 
-
+<!--
 
 ## Some facts
 
-<!--I like having discussion with interesting people, and sometime with boring people as anyone has something to teach me, even if it's boring. -->
+I like having discussion with interesting people, and sometime with boring people as anyone has something to teach me, even if it's boring. -->
 
+<!-- 
 I like to play guitar, a good hike and taking the train. But not everything at the same time.
 
 If you are thinking, looking at this wep page, that I should know a bit of web development, you should forget this idea. I know nothing about it, I just forked [this page](https://github.com/academicpages/academicpages.github.io) and replaced some stuff.
+
+-->
 
 <!--My objective is to learn as much as I can -->
